@@ -6,7 +6,7 @@
 
 Adding shields would also be amazing -->
 
-![image](https://github.com/dolbyio-samples/multiview-and-spatial-game/assets/112442274/f40f292d-9e5c-46e3-ba51-2835baf12a9c)
+![Image](https://unity.com/sites/default/files/styles/16_9_l_scale_width/public/2022-09/Section%203%20Banner_800x450.jpg?itok=kpm0SvWa)
 
 # Elevate Your Game: Miniature E-Sports Setup Inspirations
 Using Unity's Boss Room, this version integrates a multiview camera system and spatial audio. 
