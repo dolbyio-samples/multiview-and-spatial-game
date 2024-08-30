@@ -1,10 +1,4 @@
-<!--
-[![Build Package](https://github.com/dolbyio-samples/template-repo/actions/workflows/build-package.yml/badge.svg)](https://github.com/dolbyio-samples/template-repo/actions/workflows/build-package.yml)
-[![Publish Package](https://github.com/dolbyio-samples/template-repo/actions/workflows/publish-package.yml/badge.svg)](https://github.com/dolbyio-samples/template-repo/actions/workflows/publish-package.yml)
-[![npm](https://img.shields.io/npm/v/dolbyio-samples/template-repo)](https://www.npmjs.com/package/dolbyio-samples/template-repo)
-[![License](https://img.shields.io/github/license/dolbyio-samples/template-repo)](LICENSE)
-
-Adding shields would also be amazing -->
+# :warning: This repository is no longer maintained :warning:
 
 <div align="center">
     <img src="https://github.com/dolbyio-samples/multiview-and-spatial-game/assets/112442274/616ad1f0-1e19-4ae9-a963-1c0681c7671c" alt="image">
